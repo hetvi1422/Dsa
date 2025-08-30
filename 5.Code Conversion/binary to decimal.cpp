@@ -10,7 +10,7 @@ int main()
   int rem,ans=0,mul=1;
 
   while(num>0)
-  {
+  { 
     rem=num%10;//reminder
     num=num/10;//quotient
     ans=rem*mul+ans;    //ans
