@@ -8,7 +8,7 @@ int count_digit(int num)
 {
     int count=0;
     while (num)
-    {  
+    {   
         count++;
         num/=10;
     }
