@@ -6,7 +6,7 @@ using namespace std;
 
 int count_digit(int num)
 {
-    int count=0;
+    int count=0;  
     while (num)
     {   
         count++;
