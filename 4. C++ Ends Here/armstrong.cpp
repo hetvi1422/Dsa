@@ -12,7 +12,7 @@ int count_digit(int num)
         count++;
         num/=10;
     }
-    return count;
+    return count; 
     
 }
 
